@@ -39,8 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" title="Flask" style="margin: 4px" />
 </p>
 
-## 📊 Github Stats
-
-![](https://streak-stats.demolab.com/?user=ReiPullum&theme=vue-dark&hide_border=false)<br/>
-
-<!-- Github Stats created with GPRM ( https://gprm.itsvg.in ) -->
